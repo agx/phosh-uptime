@@ -40,18 +40,20 @@
     "url": "https://sources.phosh.mobi",
     "icon": "https://icons.duckduckgo.com/ip3/sources.phosh.mobi.ico",
     "slug": "sources-phosh-mobi",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 877,
     "timeDay": 877,
     "timeWeek": 877,
     "timeMonth": 877,
     "timeYear": 877,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-02": 0
+    }
   },
   {
     "name": "gitlab.gnome.org",
@@ -77,18 +79,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/source.puri.sm.ico",
     "slug": "nightly-build-job",
     "status": "up",
-    "uptime": "99.16%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "99.16%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1124,
     "timeDay": 1124,
     "timeWeek": 1124,
     "timeMonth": 1124,
     "timeYear": 1124,
-    "dailyMinutesDown": {
-      "2024-06-02": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
