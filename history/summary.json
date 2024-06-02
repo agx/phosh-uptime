@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 881,
-    "timeDay": 881,
+    "timeDay": 1012,
     "timeWeek": 881,
     "timeMonth": 881,
     "timeYear": 881,
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 755,
-    "timeDay": 755,
+    "timeDay": 807,
     "timeWeek": 755,
     "timeMonth": 755,
     "timeYear": 755,
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sources.phosh.mobi.ico",
     "slug": "sources-phosh-mobi",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "72.61%",
+    "uptimeDay": "64.33%",
+    "uptimeWeek": "72.61%",
+    "uptimeMonth": "72.61%",
+    "uptimeYear": "72.61%",
     "time": 877,
-    "timeDay": 877,
+    "timeDay": 888,
     "timeWeek": 877,
     "timeMonth": 877,
     "timeYear": 877,
     "dailyMinutesDown": {
-      "2024-06-02": 0
+      "2024-06-02": 514
     }
   },
   {
@@ -67,7 +67,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 444,
-    "timeDay": 444,
+    "timeDay": 633,
     "timeWeek": 444,
     "timeMonth": 444,
     "timeYear": 444,
@@ -78,17 +78,19 @@
     "url": "https://source.puri.sm/guido.gunther/phosh-debs",
     "icon": "https://icons.duckduckgo.com/ip3/source.puri.sm.ico",
     "slug": "nightly-build-job",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1124,
-    "timeDay": 1124,
+    "timeDay": 947,
     "timeWeek": 1124,
     "timeMonth": 1124,
     "timeYear": 1124,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-02": 0
+    }
   }
 ]
