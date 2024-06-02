@@ -76,19 +76,19 @@
     "url": "https://source.puri.sm/guido.gunther/phosh-debs",
     "icon": "https://icons.duckduckgo.com/ip3/source.puri.sm.ico",
     "slug": "nightly-build-job",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1191,
-    "timeDay": 1191,
-    "timeWeek": 1191,
-    "timeMonth": 1191,
-    "timeYear": 1191,
+    "status": "up",
+    "uptime": "99.16%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.16%",
+    "time": 1124,
+    "timeDay": 1124,
+    "timeWeek": 1124,
+    "timeMonth": 1124,
+    "timeYear": 1124,
     "dailyMinutesDown": {
-      "2024-06-02": 0
+      "2024-06-02": 11
     }
   }
 ]
