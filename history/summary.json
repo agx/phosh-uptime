@@ -45,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sources.phosh.mobi.ico",
     "slug": "sources-phosh-mobi",
     "status": "up",
-    "uptime": "94.24%",
+    "uptime": "94.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.82%",
-    "uptimeYear": "94.24%",
+    "uptimeYear": "94.28%",
     "time": 776,
     "timeDay": 789,
     "timeWeek": 853,
@@ -87,7 +87,7 @@
     "url": "https://source.puri.sm/guido.gunther/phosh-debs",
     "icon": "https://icons.duckduckgo.com/ip3/source.puri.sm.ico",
     "slug": "nightly-build-job",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -99,6 +99,7 @@
     "timeMonth": 1309,
     "timeYear": 1230,
     "dailyMinutesDown": {
+      "2024-07-11": 0,
       "2024-06-26": 52
     }
   }
