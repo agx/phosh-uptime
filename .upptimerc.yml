@@ -8,6 +8,8 @@ sites:
     url: https://deb.phosh.mobi
   - name: sources.phosh.mobi
     url: https://sources.phosh.mobi
+  - name: images.phosh.mobi
+    url: https://images.phosh.mobi
   - name: gitlab.gnome.org
     url: https://gitlab.gnome.org/World/Phosh
   - name: Nightly build job
