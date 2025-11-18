@@ -13,7 +13,7 @@ sites:
   - name: gitlab.gnome.org
     url: https://gitlab.gnome.org/World/Phosh
   - name: Nightly build job
-    url: https://source.puri.sm/guido.gunther/phosh-debs
+    url: https://salsa.debian.org/BengalOS-team/bengalos-debs
   - name: Phosh.mobi e.V.
     url: https://ev.phosh.mobi/
   - name: Fedi
