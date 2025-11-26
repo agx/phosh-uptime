@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 866,
-    "timeDay": 893,
-    "timeWeek": 803,
-    "timeMonth": 804,
-    "timeYear": 850,
+    "timeDay": 709,
+    "timeWeek": 798,
+    "timeMonth": 792,
+    "timeYear": 849,
     "dailyMinutesDown": {
       "2025-07-11": 55,
       "2025-04-21": 124,
@@ -31,8 +31,7 @@
       "2025-01-06": 53,
       "2025-01-04": 17,
       "2024-12-21": 20,
-      "2024-11-27": 18,
-      "2024-11-26": 16
+      "2024-11-27": 18
     }
   },
   {
@@ -47,10 +46,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.35%",
     "time": 775,
-    "timeDay": 939,
-    "timeWeek": 695,
-    "timeMonth": 740,
-    "timeYear": 783,
+    "timeDay": 597,
+    "timeWeek": 721,
+    "timeMonth": 734,
+    "timeYear": 782,
     "dailyMinutesDown": {
       "2024-12-26": 509,
       "2024-12-25": 1440,
@@ -70,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 844,
-    "timeDay": 816,
-    "timeWeek": 805,
-    "timeMonth": 785,
-    "timeYear": 837,
+    "timeDay": 688,
+    "timeWeek": 791,
+    "timeMonth": 775,
+    "timeYear": 836,
     "dailyMinutesDown": {
       "2025-05-09": 35,
       "2025-04-21": 62,
@@ -88,8 +87,7 @@
       "2025-01-06": 53,
       "2025-01-04": 17,
       "2024-12-21": 19,
-      "2024-11-27": 18,
-      "2024-11-26": 16
+      "2024-11-27": 18
     }
   },
   {
@@ -98,15 +96,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/images.phosh.mobi.ico",
     "slug": "images-phosh-mobi",
     "status": "up",
-    "uptime": "98.59%",
+    "uptime": "98.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.35%",
     "time": 753,
-    "timeDay": 887,
-    "timeWeek": 748,
-    "timeMonth": 707,
+    "timeDay": 723,
+    "timeWeek": 802,
+    "timeMonth": 696,
     "timeYear": 744,
     "dailyMinutesDown": {
       "2024-12-26": 509,
@@ -127,9 +125,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
     "time": 585,
-    "timeDay": 593,
-    "timeWeek": 558,
-    "timeMonth": 501,
+    "timeDay": 402,
+    "timeWeek": 553,
+    "timeMonth": 496,
     "timeYear": 592,
     "dailyMinutesDown": {
       "2025-09-15": 67,
@@ -146,8 +144,7 @@
       "2024-12-04": 563,
       "2024-12-03": 63,
       "2024-12-02": 65,
-      "2024-11-29": 33,
-      "2024-11-26": 53
+      "2024-11-29": 33
     }
   },
   {
@@ -156,16 +153,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/salsa.debian.org.ico",
     "slug": "nightly-build-job",
     "status": "up",
-    "uptime": "99.25%",
+    "uptime": "99.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.86%",
     "uptimeYear": "99.13%",
-    "time": 1165,
-    "timeDay": 317,
-    "timeWeek": 365,
-    "timeMonth": 774,
-    "timeYear": 1241,
+    "time": 1164,
+    "timeDay": 468,
+    "timeWeek": 373,
+    "timeMonth": 765,
+    "timeYear": 1240,
     "dailyMinutesDown": {
       "2025-11-03": 500,
       "2025-10-16": 264,
@@ -201,11 +198,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 817,
-    "timeDay": 1059,
-    "timeWeek": 848,
-    "timeMonth": 832,
-    "timeYear": 817,
+    "time": 815,
+    "timeDay": 702,
+    "timeWeek": 865,
+    "timeMonth": 818,
+    "timeYear": 815,
     "dailyMinutesDown": {}
   },
   {
@@ -219,11 +216,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1199,
-    "timeDay": 1112,
-    "timeWeek": 1241,
-    "timeMonth": 1247,
-    "timeYear": 1199,
+    "time": 1195,
+    "timeDay": 870,
+    "timeWeek": 1193,
+    "timeMonth": 1222,
+    "timeYear": 1195,
     "dailyMinutesDown": {}
   }
 ]
