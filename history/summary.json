@@ -187,9 +187,9 @@
     "url": "https://social.phosh.mobi/@phosh",
     "icon": "https://icons.duckduckgo.com/ip3/social.phosh.mobi.ico",
     "slug": "fedi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
@@ -199,6 +199,7 @@
     "timeMonth": 1222,
     "timeYear": 1203,
     "dailyMinutesDown": {
+      "2026-03-01": 0,
       "2025-12-22": 37,
       "2025-12-01": 336
     }
