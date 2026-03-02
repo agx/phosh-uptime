@@ -1,7 +1,7 @@
 url: https://salsa.debian.org/BengalOS-team/bengalos-debs
-status: up
-code: 200
-responseTime: 380
-lastUpdated: 2026-03-02T21:59:03.853Z
+status: down
+code: 502
+responseTime: 198
+lastUpdated: 2026-03-02T22:37:05.073Z
 startTime: 2024-06-01T13:10:50.109Z
 generator: Upptime <https://github.com/upptime/upptime>
