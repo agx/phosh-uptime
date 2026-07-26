@@ -104,17 +104,17 @@
     "url": "https://salsa.debian.org/BengalOS-team/bengalos-debs",
     "icon": "https://icons.duckduckgo.com/ip3/salsa.debian.org.ico",
     "slug": "nightly-build-job",
-    "status": "down",
+    "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "91.35%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "99.56%",
-    "time": 1351,
-    "timeDay": 9468,
-    "timeWeek": 10132,
-    "timeMonth": 2763,
-    "timeYear": 1379,
+    "uptimeDay": "86.12%",
+    "uptimeWeek": "97.82%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "99.54%",
+    "time": 1350,
+    "timeDay": 6424,
+    "timeWeek": 9044,
+    "timeMonth": 2693,
+    "timeYear": 1377,
     "dailyMinutesDown": {
       "2025-09-10": 27,
       "2025-09-14": 171,
@@ -139,7 +139,7 @@
       "2026-07-06": 118,
       "2026-07-09": 91,
       "2026-07-25": 124,
-      "2026-07-26": 0
+      "2026-07-26": 95
     }
   },
   {
